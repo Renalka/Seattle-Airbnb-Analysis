@@ -17,14 +17,17 @@ Pandas
 Matplotlib
 
 ## Questions 
-1. Can you describe the vibe of each Seattle neighborhood using listing descriptions?
-2. What are the busiest times of the year to visit Seattle? By how much do prices spike?
-3. Is there a general upward trend of both new Airbnb listings and total Airbnb visitors to Seattle?
+1. 
+2. 
+3. 
 
 ## Results:
 The results and analyses are included in the jupyter notebook. A detailed explanation of the results is posted on Medium.
 
 Some conclusions are as follows :
+1.
+2.
+3.
 
 ## Data
 The data can be found on Kaggle [here](https://www.kaggle.com/airbnb/seattle).

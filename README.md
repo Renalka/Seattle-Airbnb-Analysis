@@ -8,7 +8,9 @@ These datasets describe the listing activity of homestays in Seattle since 2008.
 The following three Airbnb datasets are included:
 
 Listings, including full descriptions and average review score
+
 Reviews, including unique id for each reviewer and detailed comments
+
 Calendar, including listing id and the price and availability for that day
 
 ## Data

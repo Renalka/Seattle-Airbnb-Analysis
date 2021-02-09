@@ -50,4 +50,4 @@ Some conclusions are as follows :
 
 ## Linear Regression
 We have also attempted to predict prices using Linear Regression.
-The R2 score came out to be 49%.
+The R2 score came out to be ~50%.

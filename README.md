@@ -36,7 +36,7 @@ Scikit-Learn
 
 
 ## Results:
-The results and analyses are included in the jupyter notebook. A detailed explanation of the results is posted on Medium.
+The results and analyses are included in the jupyter notebook. A detailed explanation of the results is posted on [Medium](https://renalka.medium.com/seattle-airbnb-exploratory-analysis-4ff36fddf9bc).
 
 Some conclusions are as follows :
 1. December has the most number of lisitngs, followed by October and November. It can be concluded that October-December are the peak months.

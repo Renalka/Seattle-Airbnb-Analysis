@@ -19,6 +19,7 @@ This project requires Python 3.x and the following Python libraries installed:
 Numpy
 Pandas
 Matplotlib
+Datetime
 Scikit-Learn
 
 ## Questions explored.

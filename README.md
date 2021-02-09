@@ -39,7 +39,7 @@ Scikit-Learn
 The results and analyses are included in the jupyter notebook. A detailed explanation of the results is posted on [Medium](https://renalka.medium.com/seattle-airbnb-exploratory-analysis-4ff36fddf9bc).
 
 Some conclusions are as follows :
-1. December has the most number of lisitngs, followed by October and November. It can be concluded that October-December are the peak months.
+1. December has the most number of listings, followed by October and November. It can be concluded that October-December are the peak months.
 2. December fetches the highest average price, followed by June.
 3. December is the peak revenue generating month, followed by August.
 4. The maximum average price is $231.705882 and it is concluded that Southeast Magnolia has the most expensive listings. Rainier Beach is the cheapest neighbourhood with an average price of $68.555556.

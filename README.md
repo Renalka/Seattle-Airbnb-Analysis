@@ -18,10 +18,15 @@ The data can be found on Kaggle [here](https://www.kaggle.com/airbnb/seattle).
 
 ## Installations:
 This project requires Python 3.x and the following Python libraries installed:
+
 Numpy
+
 Pandas
+
 Matplotlib
+
 Datetime
+
 Scikit-Learn
 
 ## Questions explored.

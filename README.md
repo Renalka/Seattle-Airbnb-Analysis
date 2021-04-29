@@ -1,4 +1,3 @@
-# Udacity Project1
 # Seattle Airbnb Exploratory Analysis
 This is a project aimed at analysing the datasets provided by Airbnb on its activity in Seattle, WA, USA. The project employs the use of the CRISP-DM process and explores three separate datasets.
 
@@ -41,7 +40,7 @@ Scikit-Learn
 
 
 ## Results:
-The results and analyses are included in the [jupyter notebook](https://github.com/Renalka/Seattle-Airbnb-Analysis-Udacity/blob/master/Seattle%20Airbnb%20Exploratory%20Analysis.ipynb). A detailed explanation of the results is posted on [Medium](https://renalka.medium.com/seattle-airbnb-exploratory-analysis-4ff36fddf9bc).
+The results and analyses are included in the [jupyter notebook](https://github.com/Renalka/Seattle-Airbnb-Analysis/blob/master/Seattle%20Airbnb%20Exploratory%20Analysis.ipynb). A detailed explanation of the results is posted on [Medium](https://renalka.medium.com/seattle-airbnb-exploratory-analysis-4ff36fddf9bc).
 
 Some conclusions are as follows :
 1. December has the most number of listings, followed by October and November. It can be concluded that October-December are the peak months.
